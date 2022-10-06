@@ -1,0 +1,17 @@
+{
+    "name": "Assembly-HitSystem",
+    "references": [
+        "GUID:5293594ef87bab54cbfa97221295f629"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

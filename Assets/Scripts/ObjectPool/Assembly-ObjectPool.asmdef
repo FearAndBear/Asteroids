@@ -1,0 +1,16 @@
+{
+    "name": "Assembly-ObjectPool",
+    "references": [
+        "GUID:6b0e470e6e11503468da030be3851ec8",
+        "GUID:e6a4e20e227636e4083ab6532379c123"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

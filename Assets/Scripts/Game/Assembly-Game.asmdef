@@ -1,0 +1,21 @@
+{
+    "name": "Assembly-Game",
+    "references": [
+        "GUID:6b0e470e6e11503468da030be3851ec8",
+        "GUID:5293594ef87bab54cbfa97221295f629",
+        "GUID:e6a4e20e227636e4083ab6532379c123",
+        "GUID:030eb32323656974788f5efccc767822",
+        "GUID:74fbb06a6cc396846b83ed2433ffb723",
+        "GUID:1bc1980910077cd44a719abd08498b99",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
